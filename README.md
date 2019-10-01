@@ -1,5 +1,8 @@
 # karateDemo
 # Author: Chamini Digana Manannalage
+
+[![CircleCI](https://circleci.com/gh/chaminikumara/ExampleWorkChamini.svg?style=svg)](https://circleci.com/gh/chaminikumara/ExampleWorkChamini)
+
 Karate was released as an open-source tool by Intuit. 
 The tool is designed to be used for automated API testing and has all the required features to make API testing.
 This is Demo project with an example to automate some API's of PetStore project.
